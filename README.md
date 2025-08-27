@@ -43,7 +43,7 @@ Created AgeGroup bins (18–25, 26–40, 41–60, 60+).
             - Age distribution of customers.
             - Gender distribution.
             - Customers by city (Top 10 cities).
-            
+
         2. Sales Insights
             - Total sales by product category.
             - Monthly sales trend (line chart).
@@ -55,19 +55,12 @@ Created AgeGroup bins (18–25, 26–40, 41–60, 60+).
             - Heatmap of product category vs payment mode.
 DATA VISUALIZATION:
         ![Age and Frequency](ageandfrequency.png)
-
         ![City Wise revenue Contribution](citywiserevenuecontribution.png)
-
         ![Gender and Their Frequency](genderandfrequency.png)
-
         ![Monthly Trend sales](monthtrendsales.png)
-
         ![Pie chart Payment Types](piechatpayment.png)
-
         ![City and Their Transaction](top10citycustomers.png)
-
-        ![Product and their Sales](productandtheirsales.png)
-
+        ![Product and their Sales](productandtheirsales.png)git 
         ![Heatmap For Product Category and Payments](heatmapforproductandpayment.png)
     
     🎯 Expected Learning Outcomes:
