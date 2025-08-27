@@ -43,7 +43,7 @@ Created AgeGroup bins (18–25, 26–40, 41–60, 60+).
             - Age distribution of customers.
             - Gender distribution.
             - Customers by city (Top 10 cities).
-
+            
         2. Sales Insights
             - Total sales by product category.
             - Monthly sales trend (line chart).
